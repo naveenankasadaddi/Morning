@@ -1,7 +1,13 @@
 Hello Sonuu
 
 
+<<<<<<< HEAD
 It's okay to be not oka
 
 
 Holding the water in the eyes
+=======
+It's okay to be not okay
+
+I agree
+>>>>>>> 28bf098505244ce18346edfc80e437c4f54f9473
